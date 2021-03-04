@@ -61,13 +61,11 @@ header h3 {
   cursor: pointer;
   outline: none;
   transition: all .5s ease;
-  text-align: left;
 }
 
 .btn-edit {
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
-  text-align: up;
 }
 
 .btn-edit:hover {
@@ -78,7 +76,6 @@ header h3 {
 .btn-delete {
   color: var(--secondary-color);
   border: 1px solid var(--secondary-color);
-  text-align: up;
 }
 
 .btn-delete:hover {
@@ -94,8 +91,6 @@ header h3 {
   background: var(--primary-color);
   border: none;
   color: #fff;
-  text-align: left;
-  text-align: up;
 }
 
 /* Modal */
