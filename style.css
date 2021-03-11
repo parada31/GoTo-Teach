@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@3008display=swap');
 
   :root {
-    --primary-color: #00ff00;
+    --primary-color: #ff0000;
     --secondary-color: #67141a;
   }
 
@@ -55,8 +55,8 @@ header h3 {
 
 .btn {
   background: transparent;
-  width: 5rem;
-  height: 2rem;
+  width: 7rem;
+  height: 3rem;
   border-radius: 1rem;
   cursor: pointer;
   outline: none;
